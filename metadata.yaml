@@ -1,0 +1,36 @@
+_repo: Charlotte-s-Inheritance_9259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary Elizabeth
+    - White, Babington
+    - Breddon, Miss
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: Book 1. De Profundis; Chapter I; Lenoble of Beaubocage; Chapter II; In
+  This Wide World I Stand Alone; Chapter III; "Past Hope, and in Despair."; Chapter
+  IV; A Decree of Banishment; Book 2. Downhill; The Fate Op Susan Lenoble; Forgiven
+  Too Late; Gustave the Second; Book 3. The Horatiad; Chiefly Retrospective; Epistolary;
+  Too Clever, for a Catspaw; Captain Paget Is Paternal; Chapter V; The Captain's Coadjutor;
+  Book 4. Gustave in England; Halcyon Days; Captain Paget Awakens to a Sense of His
+  Duty; "What Do We Here, My Heart and I?"; Sharper Than a Serpent's Tooth.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: Charlotte's Inheritance
+url: http://www.gutenberg.org/ebooks/9259
