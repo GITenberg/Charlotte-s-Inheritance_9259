@@ -1,5 +1,8 @@
 _repo: Charlotte-s-Inheritance_9259
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Braddon, M. E. (Mary Elizabeth)
@@ -20,6 +23,8 @@ description: Book 1. De Profundis; Chapter I; Lenoble of Beaubocage; Chapter II;
   Too Clever, for a Catspaw; Captain Paget Is Paternal; Chapter V; The Captain's Coadjutor;
   Book 4. Gustave in England; Halcyon Days; Captain Paget Awakens to a Sense of His
   Duty; "What Do We Here, My Heart and I?"; Sharper Than a Serpent's Tooth.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9259#Charlotte-s-Inheritance
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
